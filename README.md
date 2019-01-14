@@ -1,4 +1,7 @@
-#### 在原作者黄海广的基础上，增加了自己在[coursera](https://www.coursera.org/learn/machine-learning/)上学习过程中的代码。目录为：[./code/Octave/](https://github.com/seanyuner/Coursera-ML-AndrewNg-Notes/tree/master/code/Octave)
+#### 在原作者[黄海广](https://github.com/fengdu78)的基础上，增加了自己在[coursera](https://www.coursera.org/learn/machine-learning/)上学习过程中的作业代码。目录为：[./code/Octave/](https://github.com/seanyuner/Coursera-ML-AndrewNg-Notes/tree/master/code/Octave)
+
+附：自己整理的课程框架：
+![](./images/Machine_Learning_skeleton.svg)
 ----
 
 **斯坦福大学2014（吴恩达）机器学习教程中文笔记**
